@@ -1,4 +1,7 @@
 # Sequence_Fitness_Prediction
+<a href="url"><img src="[http://url.to/image.png](https://user-images.githubusercontent.com/77028470/216727748-c29a8bd3-383c-4d93-b422-cb5be517339c.png)" align="center" height="400" width="1000" ></a>
+
+
 
 ## Introduction
 
