@@ -1,5 +1,5 @@
 # Sequence_Fitness_Prediction
-<a href="url"><img src="[http://url.to/image.png](https://user-images.githubusercontent.com/77028470/216727748-c29a8bd3-383c-4d93-b422-cb5be517339c.png)" align="center" height="400" width="1000"></a>
+<p align="center"> <img src=https://user-images.githubusercontent.com/77028470/216751994-1bd0fd86-741f-47ac-8153-757bcfe47b9c.png height="240" width="250" style="border: 0">
 
 
 
