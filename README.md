@@ -1,5 +1,5 @@
 # Sequence_Fitness_Prediction
-<a href="url"><img src="[http://url.to/image.png](https://user-images.githubusercontent.com/77028470/216727748-c29a8bd3-383c-4d93-b422-cb5be517339c.png)" align="center" height="400" width="1000" ></a>
+<a href="url"><img src="[http://url.to/image.png](https://user-images.githubusercontent.com/77028470/216727748-c29a8bd3-383c-4d93-b422-cb5be517339c.png)" align="center" height="400" width="1000"></a>
 
 
 
@@ -12,3 +12,12 @@ The main questions addressed are:
 * How do different representation methods perform in predicting distinct fitness attributes such as stability or affinity? 
 * How do sampling methods perform in the imbalanced protein dataset?
 * Is ensemble learning over different protein representations helpful in boosting the performance of discriminative models?
+
+
+## Requirements
+
+- Python 3.x
+- Numpy
+- Pandas
+- Sklearn
+- modlamp 4.3.0
