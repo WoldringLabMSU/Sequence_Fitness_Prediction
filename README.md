@@ -23,4 +23,4 @@ The main questions addressed are:
 - modlamp 
 - Optuna
   
-  Note: The required functions such as classification and regression combined with sampling methods, sequence represention concatenation or voting, etc. are in the main file called as module_seq.py
+  Note: The required functions such as classification and regression combined with sampling methods, sequence represention concatenation, etc. are in the main file called as Seq.py
