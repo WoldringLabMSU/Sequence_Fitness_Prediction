@@ -27,4 +27,4 @@ The main questions addressed are:
 - Scipy
 
   
-The 2 datasets used in this study are Affinity Binding and NESP for stability prediction. Please refer to the manuscipt for more detailed information about these datasets. 
+The 2 datasets used in this study are Affinity Binding and NESP for stability prediction. Please refer to the manuscipt for more detailed information on their attributes ( protein type, size, data imbalance, etc.).
