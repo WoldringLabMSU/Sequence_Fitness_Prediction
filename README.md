@@ -22,5 +22,9 @@ The main questions addressed are:
 - Sklearn
 - modlamp 
 - Optuna
+- seaborn
+- Matplotlib
+- statistics
+
   
   Note: The required functions such as classification and regression combined with sampling methods, sequence represention concatenation, etc. are in the main file called as Seq.py
