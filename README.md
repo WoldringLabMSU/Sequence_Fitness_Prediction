@@ -1,5 +1,5 @@
 # Sequence_Fitness_Prediction
-<p align="center"> <img src=https://user-images.githubusercontent.com/77028470/216752280-01adaf5c-c677-4872-9af2-d03f022b1021.png height="240" width="250" style="border: 0">
+<p align="center"> <img src=https://user-images.githubusercontent.com/77028470/216752280-01adaf5c-c677-4872-9af2-d03f022b1021.png height="240" width="300" style="border: 0">
 
 
 
@@ -20,4 +20,6 @@ The main questions addressed are:
 - Numpy
 - Pandas
 - Sklearn
-- modlamp 4.3.0
+- modlamp 
+  
+  Note: The required functions such as classification and regression combined with sampling methods, sequence represention concatenation or voting, etc. are in the main file called as module_seq.py
