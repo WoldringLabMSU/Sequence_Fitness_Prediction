@@ -27,4 +27,4 @@ The main questions addressed are:
 - Scipy
 
   
-  Note: The required functions such as classification and regression combined with sampling methods, sequence represention concatenation, etc. are in the main file called as Seq.py
+The 2 datasets used in this study are Affinity Binding and NESP for stability prediction. Please refer to the manuscipt for more detailed information about these datasets. 
