@@ -1,7 +1,6 @@
 
 # This file is changing the .pt files geerated per sequence to a single csv file
 
-
 import os
 import numpy as np
 import torch
@@ -18,14 +17,11 @@ prefixes = []
 
 my_dict = defaultdict(list)
 
-
-
 #Read in zip file
 with  zipfile.ZipFile(zip_file,'r') as my_file:
 	list_files = my_file.namelist()
 
 #Iterate through files in zip file
-
        
 	for zipfilename in list_files:
 
